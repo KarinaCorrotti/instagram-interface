@@ -1,4 +1,4 @@
-# Recriação da interface de login do Instagrama
+# Recriação da interface de login do Instagrama 😉
 
 Esse é o repositório foi um estudo no qual recriei a interface de login do Instagram! 
 
